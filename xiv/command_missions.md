@@ -33,10 +33,13 @@ Other limitations:
 Tactics are basically stat bonuses. Talk to your units between missions and you can assign tactics.
 
 There are 4 different types of tactics that can be assigned to each member of your squadron.
-Independent - HP+ Damage+ Defense+
-Offensive - Damage++
-Defensive HP+++ Defense+++
-Balanced HP++ Damage++
+
+| Tactic      | HP  | Damage | Defense |
+|-------------|-----|--------|---------|
+| Independent | +   | +      | +       |
+| Offensive   |     | +++    |         |
+| Defensive   | +++ |        | +++     |
+| Balanced    | ++  | ++     |         |
 
 These are obtained randomly by completing command missions. 
 For DPS and healer, assign Offensive.
